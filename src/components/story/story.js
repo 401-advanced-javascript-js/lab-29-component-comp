@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-import Details from "../details/details";
+import Details from '../details/details';
 
 export default class Story extends React.Component {
   render() {

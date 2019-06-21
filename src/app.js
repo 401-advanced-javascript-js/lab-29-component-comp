@@ -1,9 +1,9 @@
-import React from "react";
-import { Route } from "react-router-dom";
+import React from 'react';
+import { Route } from 'react-router-dom';
 
-import Header from "./components/header/header";
-import Hello from "./components/hello/hello";
-import Story from "./components/story/story";
+import Header from './components/header/header';
+import Hello from './components/hello/hello';
+import Story from './components/story/story';
 
 export default class App extends React.Component {
   render() {

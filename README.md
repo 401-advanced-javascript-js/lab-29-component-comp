@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-js/lab-29-component-comp/pull/1)
 - [travis]()
 - [front-end](https://codesandbox.io/s/starter-code-composition-modularized-assignment-2-w1khx)
 
